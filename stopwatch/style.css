@@ -1,0 +1,31 @@
+.buttons img{
+    width: 40px;
+    height: 38px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.stopwatch{
+ width: 90%;
+ max-width: 600px;
+ text-align: center;
+ padding: 40px 0;
+ color: rgb(218, 83, 83);
+ margin: 200px auto 0;
+ background-color: pink;
+ box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+ margin-top: 100px;
+ 
+}
+.stopwatch h1{
+font-weight: bolder;
+font-size: 45px;
+/* margin-top: 50px; */
+}
+.buttons img:nth-child(2){
+    width: 60px;
+    height: 40px;
+}
